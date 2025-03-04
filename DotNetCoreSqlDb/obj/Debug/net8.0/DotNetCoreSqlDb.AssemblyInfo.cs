@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCoreSqlDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53a876614ad7b974402020f67a9b9bcce5ef88d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCoreSqlDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCoreSqlDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

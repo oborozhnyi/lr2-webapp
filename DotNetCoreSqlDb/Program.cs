@@ -3,7 +3,12 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration["AZURE_SQL_CONNECTIONSTRING"];
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+if (string.IsNullOrEmpty(connectionString))
+{
+    throw new InvalidOperationException("ConnectionString is not set!");
+}
 
 builder.Services.AddDbContext<MyDbContext>(options =>
     options.UseSqlServer(connectionString));

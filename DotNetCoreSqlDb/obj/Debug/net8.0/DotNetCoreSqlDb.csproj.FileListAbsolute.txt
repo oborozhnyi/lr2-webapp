@@ -170,3 +170,4 @@ C:\Users\User\source\repos\DotNetCoreSqlDb\DotNetCoreSqlDb\obj\Debug\net8.0\refi
 C:\Users\User\source\repos\DotNetCoreSqlDb\DotNetCoreSqlDb\obj\Debug\net8.0\DotNetCoreSqlDb.pdb
 C:\Users\User\source\repos\DotNetCoreSqlDb\DotNetCoreSqlDb\obj\Debug\net8.0\DotNetCoreSqlDb.genruntimeconfig.cache
 C:\Users\User\source\repos\DotNetCoreSqlDb\DotNetCoreSqlDb\obj\Debug\net8.0\ref\DotNetCoreSqlDb.dll
+C:\Users\User\source\repos\DotNetCoreSqlDb\DotNetCoreSqlDb\obj\Debug\net8.0\DotNetCoreSqlDb.sourcelink.json
